@@ -1,3 +1,3 @@
 # L1 Loan Prediction
  
-![Loan Prediction](One Pager Loan Prediction Complete.pdf) 
+![Loan Prediction](One_Pager_Loan_Prediction_Complete) 
